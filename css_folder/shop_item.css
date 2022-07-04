@@ -226,6 +226,57 @@ h1,h2,p,li{
     border: 2px solid #C13838;
 }
 
+.mayLike_carousel{
+    margin-top: 100px;
+    padding: 0 5%;
+    
+}
+
+.mayLike_carousel h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+
+.shop_card{
+    width: 500px;
+    margin: 20px;
+}
+.shop_card img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+
+}
+
+.shop_card h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    position: relative;
+    color: white;
+    width: 100%;
+    line-height: 40px;
+}
+.shop_card h1 span{
+    position: absolute;
+    right: 0;
+}
+
+.shop_card hr{
+    border-color: #C13838;
+}
+.shop_card p{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight:300;
+    line-height: 40px;
+}
+
+.owl-carousel{
+    margin-bottom: 100px;
+}
 
 
 

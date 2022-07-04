@@ -6,6 +6,9 @@
     margin: 0;
     padding: 0;
 }
+.body{
+    color: white;
+}
 .about_landing{
     display: flex;
     justify-content: center;
