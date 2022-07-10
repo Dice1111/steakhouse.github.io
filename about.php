@@ -10,6 +10,7 @@
 </head>
 <body>
     <?php include("navbar.php") ?>
+<!-- ......................................about landing......................................... -->
     <div class="about_landing">
         <div class="about_content">
             <h1>Our Story</h1>
@@ -17,19 +18,31 @@
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         </div>
     </div>
+
+<!-- ...........................................chef intro.................................................     -->
+
     <div class="intro_chef">
         <img src="img/intro_chef.png" alt="">
     </div>
-    <div class="quote1">
-        <h1>" Let food be thy medicine and medicine be thy food. "</h1>
-        <div class="border_center">
-            <h2>Hippocrates</h2>
+
+<!-- ....................................................quote..................................................... -->
+    <div class="quote" style="background-color:#100E0E">
+        <h1 class="quote_quote">
+            <span class="big_quote1">"</span>
+            Let Food be thy Medicine and Medicine be thy Food.
+        </h1>
+        <div class="border_center1">
+            <h2>- Hippocrates</h2><br>
+            <span class="big_quote2">"</span>
         </div>
-        
     </div>
+
+<!-- ..................................................chef heading............................................ -->
     <div class="our_chefs">
         <h1>Our Chefs</h1>
     </div>
+  
+ <!-- ........................................................main chef...........................................    -->
     <div class="main_chefs">
         <div class="first_chef">
             <img src="img/master_chef.png" alt="">
@@ -55,10 +68,10 @@
             </div>
         </div>        
     </div>
-
+<!-- .............................................................team..................................................... -->
     <div class="team">
         <div class="team_heading">
-            <h1>A Team of Profectionals</h1>
+            <h1>A Team of Professionals</h1>
         </div>
         <div class="team_gallery">
             <div class="team_member">
@@ -104,18 +117,19 @@
                 <h2>professional taster</h2>
             </div> 
         </div>
-
-        <div class="quote2">
-            <h1>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi exercitation, photo booth.</h1>
-            <div class="border_center1">
-                <h2>Hippocrates</h2>
-            </div>
-            <div class="big_quote1"><h1>"</h1></div>
-            <div class="big_quote2"><h1>"</h1></div>
-            
-        </div>  
-
     </div>
+
+    <div class="quote">
+        <h1 class="quote_quote">
+            <span class="big_quote1">"</span>
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi exercitation, photo booth.  
+        </h1>
+        <div class="border_center1">
+            <h2>- Hippocrates</h2><br>
+            <span class="big_quote2">"</span>
+        </div>
+    </div>
+
     <?php include("footer.php") ?>
 </body>
 </html>

@@ -13,7 +13,7 @@
 
     <div class="item">
         <div class="shop_card">
-            <img src="img/shop_item1.png" alt="">
+            <img src="img/shop_item2.png" alt="">
             <h1>Fried Egg<span>10$</span></h1>
             <hr>
             <p>catagories/chef</p>
@@ -22,7 +22,7 @@
 
     <div class="item">
         <div class="shop_card">
-            <img src="img/shop_item1.png" alt="">
+            <img src="img/shop_item3.png" alt="">
             <h1>Fried Egg<span>10$</span></h1>
             <hr>
             <p>catagories/chef</p>
@@ -31,7 +31,7 @@
 
     <div class="item">
         <div class="shop_card">
-            <img src="img/shop_item1.png" alt="">
+            <img src="img/shop_item4.png" alt="">
             <h1>Fried Egg<span>10$</span></h1>
             <hr>
             <p>catagories/chef</p>
@@ -59,9 +59,11 @@ responsive:{
         
     },
     1000:{
+        items:2,   
+    },
+
+    1500:{
         items:3,
-        
-        
     }
 }
 })

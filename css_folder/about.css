@@ -66,6 +66,7 @@
     text-align: justify;
     font-size: 20px;
     font-family: 'Montserrat', sans-serif;
+    color: white;
     font-weight:200;
 }
 
@@ -80,35 +81,6 @@
     width: 600px;
     height: auto;
 }
-
-.quote1{
-    position: relative;
-    text-align: center;
-    background-color: #100E0E;
-    padding: 200px 10%;
-    color: white;
-    font-family: 'Montserrat', sans-serif;
-    
-}
-.quote1 h1{
-    font-weight:100;
-    font-size: 50px;
-}
-.quote1 h2{
-    font-weight:100;
-    font-size: 40px;
-    
-}
-
-.border_center{
-    display: flex;
-    justify-content: center;    
-    width: 100%;
-}
-.border_center h2{
-    border-top: 1px solid white;
-}
-
 
 .our_chefs{
     position: relative;
@@ -209,6 +181,7 @@
     font-size: 20px;
     padding: 0px 60px;
     margin-top: 80px;
+    text-align: justify;
 }
 #sign h2{
     font-size: 50px;
@@ -271,6 +244,7 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: 100;
+    margin-top: 30px;
     
 }
 .team_gallery h2{
@@ -278,55 +252,43 @@
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
     font-weight: 500;
+    margin-bottom: 30px;
 }
 
-.quote2{
-    position: relative;
+
+
+
+.quote{
     text-align: center;
-    padding: 200px 10%;
+    padding: 200px 15%;
     color: white;
     font-family: 'Montserrat', sans-serif;
     
 }
-.quote2 h1{
+.quote .quote_quote{
+    font-family: 'Tangerine', cursive;
     font-weight:100;
-    font-size: 50px;
+    font-size: 55px;
+    letter-spacing: 1px;
 }
-.quote2 h2{
-    font-weight:100;
-    font-size: 40px;
+.quote h2{
+    
+    font-weight:normal;
+    font-size: 30px;
     
 }
-.border_center1{
-    display: flex;
-    justify-content: center;    
-    width: 100%;
-}
-.border_center1 h2{
-    border-top: 1px solid white;
-}
-
-.big_quote1 h1{
-    font-size:500px;
+.big_quote1,.big_quote2{
+    font-size:300px;
     font-family: 'Tangerine', cursive;
     font-weight:700;
     color: white;
+    line-height: 50px;
 }
-
-.big_quote2 h1{
-    font-size:500px;
-    font-family: 'Tangerine', cursive;
-    font-weight:700;
-    color: white;
-}
-
 .big_quote1{
-    position: absolute;
-    top: -100px;
-    right: 100px;
+    display: block;
+    text-align: right;
 }
 .big_quote2{
-    position: absolute;
-    bottom: -100px;
-    left: 100px;
+    display: block;
+    text-align: left;
 }

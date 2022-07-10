@@ -91,43 +91,36 @@
 }
 
 .quote{
-    position: relative;
     text-align: center;
-    padding: 200px 10%;
+    padding: 200px 15%;
     color: white;
     font-family: 'Montserrat', sans-serif;
     
 }
-.quote h1{
+.quote .quote_quote{
+    font-family: 'Tangerine', cursive;
     font-weight:100;
-    font-size: 50px;
+    font-size: 55px;
+    letter-spacing: 1px;
 }
 .quote h2{
-    font-weight:100;
-    font-size: 40px;
+    
+    font-weight:normal;
+    font-size: 30px;
     
 }
-.big_quote1 h1{
-    font-size:500px;
+.big_quote1,.big_quote2{
+    font-size:300px;
     font-family: 'Tangerine', cursive;
     font-weight:700;
     color: white;
+    line-height: 50px;
 }
-
-.big_quote2 h1{
-    font-size:500px;
-    font-family: 'Tangerine', cursive;
-    font-weight:700;
-    color: white;
-}
-
 .big_quote1{
-    position: absolute;
-    top: -100px;
-    right: 100px;
+    display: block;
+    text-align: right;
 }
 .big_quote2{
-    position: absolute;
-    bottom: -100px;
-    left: 100px;
+    display: block;
+    text-align: left;
 }

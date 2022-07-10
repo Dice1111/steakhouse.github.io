@@ -42,6 +42,11 @@
 
 .reserve_left .row1 p{
     margin: 50px 0px;
+    text-align: center;
+    color: rgb(129, 129, 129);
+    padding:0px 10%;
+    /* font-weight: 400; */
+    /* background-color: #BC3F46; */
 }
 
 .reserve_left .row2{
@@ -79,11 +84,14 @@
 }
 
 .reserve_right h1{
-    
+    font-family: 'Tw Cen MT';
+    font-size: 40px;
     text-align: left;
+    margin-bottom: 50px;
 }
 
 .reserve_right form{
+    font-family: 'Montserrat', sans-serif;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -142,3 +150,52 @@
 .reserve_right form :nth-child(7){
     width: 100%;
 }
+
+/* ................................................filler.............................. */
+.filler_main{
+    display: flex;
+    justify-content:space-between;
+    
+    width: 100%;
+    padding: 0 10%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.filler1{
+    width: 45%;
+    padding-bottom: 15px;
+    border-bottom: 1px solid white;
+
+}
+.filler1>p{
+    font-family: Tw Cen MT;
+    font-size: 40px;
+    text-align: justify;
+    
+}
+.filler1>.item_content_info>p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+
+}
+.filler2{
+    width: 45%;
+
+}
+.filler2 p:nth-child(1){
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-bottom: 80px;
+    line-height: 30px;
+
+}
+.filler2 p:nth-child(2){
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 30px;
+
+}
+

@@ -3,15 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Tangerine:wght@400;700&display=swap');
 
 
-*{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    
-}
-body{
-    color: white;
-}
+/* .............................................parallex.......................................... */
 .cat_landing{
     position: relative;
     width: 100%;
@@ -57,15 +49,15 @@ body{
 }
 
 .sausage::before{
-    background-image: url('../img/sausage.jpeg');
+    background-image: url('../img/sausage_wall.jpeg');
 }
 
 .barbecue::before{
-    background-image: url('../img/barbecue.png');
+    background-image: url('../img/barbecue_wall.png');
 }
 
 .seafood::before{
-    background-image: url('../img/seafood.png');
+    background-image: url('../img/seafood_wall.png');
 }
 .drink::before{
     background-image: url('../img/drink.png');
@@ -97,7 +89,7 @@ body{
 }
 
 
-
+/* ................................................menu.................................................. */
 
 .menu_container{
     position: relative;
@@ -108,7 +100,7 @@ body{
 
 .column{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: flex-end;
 }
 
@@ -120,40 +112,62 @@ body{
     width: 850px;
     height: auto;
     z-index: -1;
-    opacity: 80%;
+    opacity: 50%;
 }
 
-.menu span{
-    margin-left: 300px;
 
-}
 .menu{
+    position: relative;
     margin: 20px 0px 20px 0px;
     width:600px;
-    /* background-color: blanchedalmond; */   
+    padding-bottom: 50px;
+    
+    /* background-color: blanchedalmond;*/
 }
 
 .menu li{
+    position: relative;
+    width: 100%;
      list-style: none;
+     padding: 20px 0;
 }
 
 .menu > h1{
-    /* background-color: blue; */
+    font-family: 'Tangerine', cursive;
+    font-weight:bold;
     font-size: 100px;
     line-height: 100px;
     color: #C13838;
+    position: relative;
+    width: 100%;
+    border-bottom: 2px solid #C13838;
+    
 
 }
 .menu li h1{
-    font-family: 'Montserrat', sans-serif;
-    font-weight:500;
-    font-size: 30px;
+    font-family: 'Tangerine', cursive;
+    font-weight:700;
+    font-size: 60px;
+    line-height: 60px;
+    color: white;
  }
  .menu li p{
-    font-family: 'Tangerine', cursive;
-    font-weight:400;
-     font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: rgb(129, 129, 129);
  }
+
+ .menu span{
+    position: absolute;
+    right: 0;
+    font-size: 30px;
+    font-weight:400;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
 
 
 .chicken_menu .menu_row2{

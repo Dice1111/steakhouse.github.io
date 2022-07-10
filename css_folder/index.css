@@ -12,16 +12,7 @@
 
 
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    color: white;
-    background-color: black;
-}
-
+/* ......................................home_landing......................................... */
 .landing{
     padding: 0px 10%;
     display: flex;
@@ -47,6 +38,7 @@ body{
 .landing h1{
     font-family: 'Patua One', cursive;
     color: #FFF1A8;
+    letter-spacing: 5px;
     
 } 
 
@@ -59,7 +51,6 @@ body{
     margin:0px 40px;
     background-color: transparent;
     color: white;
-    border:1px solid #C13838;
     width: 160px;
     height: 50px;
     font-family: Tw Cen MT;
@@ -67,11 +58,15 @@ body{
     cursor: pointer;
 }
 .landing .secondary_intro p{
-    font-family: 'Patua One', cursive;
+    font-family: 'Montserrat', sans-serif;
     color: #BC3F46;
     font-size: 20px;
-    width: 390px;
+    font-weight: bold;
+    width: 500px;
 }
+
+
+/* ..............................About us........................................ */
 
 .about_us{
     position: relative;
@@ -102,17 +97,22 @@ body{
     
 }
 .aboutUs_heading p{
+    font-family: 'Montserrat', sans-serif;
     color: #BC3F46;
     font-size: 20px;
+    font-weight: bold;
     width: 520px;
     margin: auto;
     
 }
 .aboutUs_heading button{
+    padding: 10px;
     font-family: 'Tw Cen MT';
     font-size: 20px;
     margin-top: 25px;
     color: white;
+    border: none;
+    border-bottom:1px solid #BC3F46;
     background-color: transparent;
     cursor: pointer;
     
@@ -126,6 +126,7 @@ body{
     height: 400px;
     
 }
+
 
 .fillerImg{
     position: absolute;
@@ -153,6 +154,8 @@ body{
     
 }
 
+/* ............................................categories...................................... */
+
 .categories{
     /* background-color: red; */
     text-align: center;
@@ -171,7 +174,9 @@ body{
 }
 
 .categories .cat_intro p{
-    font-family: 'Patua One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    color: #BC3F46;
+    font-weight: bold;
     font-size: 20px;
     width: 520px;
     margin: auto;
@@ -210,6 +215,7 @@ body{
     position: absolute;
     top:50%;
     left:0;
+    transform: translateY(-50%);
     font-size: 50px;
     font-family: Tw Cen MT;
     font-weight:200;
@@ -218,37 +224,23 @@ body{
     /* background-color: blue; */   
 }
 
-.cat1 h1{
+.cat1 h1,.cat1 p{
     -webkit-text-stroke: 2px #FFF1A8;
 }
-.cat1 p{
-    -webkit-text-stroke: 2px #FFF1A8;
-}
-.cat2 h1{
+.cat2 h1,.cat2 p{
     -webkit-text-stroke: 2px white;
 }
-.cat2 p{
-    -webkit-text-stroke: 2px white;   
-}
-.cat3 h1{
+.cat3 h1,.cat3 p{
     -webkit-text-stroke: 2px #82FF8A;
 }
-.cat3 p{
-    -webkit-text-stroke: 2px #82FF8A;   
-}
-.cat4 h1{
+.cat4 h1,.cat4 p{
     -webkit-text-stroke: 2px #FF7070;
 }
-.cat4 p{
-    -webkit-text-stroke: 2px #FF7070;   
-}
-.cat5 h1{
+.cat5 h1,.cat5 p{
     -webkit-text-stroke: 2px #FF8944;
 }
-.cat5 p{
-    -webkit-text-stroke: 2px #FF8944;    
-}
 
+/* ..................................BOB............................. */
 .best_of_the_best{
     background-color: #100E0E;
     padding: 0 10%;
@@ -278,7 +270,7 @@ body{
 
 
 .chef_recommend_content{
-    font-family: Tw Cen MT;
+    font-family: 'Tw Cen MT';
     width: 50%;
     /* background-color:orange; */
     height: 550px;
@@ -286,7 +278,7 @@ body{
    
 }
 .chef_recommend_content_header{
-    font-family: Tw Cen MT;
+    font-family: 'Tw Cen MT';
     width: 160px;
     height: 40px;
     display: flex;
@@ -322,6 +314,7 @@ body{
     font-size: 15px;
 }
 
+/* ...........................................chef................................. */
 .our_chef_main{
     display: flex;
     justify-content: center;
@@ -372,6 +365,10 @@ body{
     width: 448px;
     height: auto;
 }
+
+
+/* ........................................gallery................................... */
+
 
 .gallery_main{
     padding: 200px 20px;
@@ -466,6 +463,13 @@ body{
     padding-bottom: 20px;
     
 }
+
+
+/* .................................................blog.............................................. */
+
+
+
+
 .blog_main{
     text-align: center;
 }
@@ -534,17 +538,6 @@ body{
     text-align:justify;
 }
 
-.item_content_info{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 130px;
-}
-.item_content_info p{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 14px;
-    color: #BC3F46;
-
-}
 
 
 
@@ -552,8 +545,7 @@ body{
 /* ................................................filler.............................. */
 .filler_main{
     display: flex;
-    justify-content:space-between;
-    
+    justify-content:space-between;   
     width: 100%;
     padding: 0 10%;
     padding-top: 200px;
@@ -580,42 +572,31 @@ body{
 }
 .filler2{
     width: 45%;
-
 }
+
 .filler2 p:nth-child(1){
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     margin-bottom: 80px;
     line-height: 30px;
-
 }
+
 .filler2 p:nth-child(2){
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-style: italic;
     line-height: 30px;
-
 }
 
-.subscribe{
-    
-   width: 100%;
-   padding: 0 10%;
-   text-align: center;
-   padding-top: 100px;
-   padding-bottom: 100px;
+.item_content_info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 130px;
 }
-.subscribe p{
+.item_content_info p{
     font-family: 'Montserrat', sans-serif;
-    font-size: 80px;
-    margin-bottom: 80px;
-    line-height: 75px;
-}
-.subscribe input{
+    font-size: 14px;
+    color: #BC3F46;
 
-    cursor: pointer;
-    
-    padding: 10px 90px ;
-    border-radius: 30px;
-    margin-right: 40px;
 }
+

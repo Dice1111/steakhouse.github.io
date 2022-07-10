@@ -46,7 +46,7 @@
         </div>
 
         <div class="article_main">
-            <p class="article_number">01.</p>
+            <p class="article_number">1.</p>
             <img src="img/gallery1.png" alt="">
             <div class="article_content">
                 <h1>How We cook everyday?</h1>
@@ -61,7 +61,7 @@
         </div>
 
         <div class="article_main">
-            <p class="article_number">02.</p>
+            <p class="article_number">2.</p>
             <img src="img/gallery1.png" alt="">
             <div class="article_content">
                 <h1>How We cook everyday?</h1>
@@ -76,7 +76,7 @@
         </div>
 
         <div class="article_main">
-            <p class="article_number">03.</p>
+            <p class="article_number">3.</p>
             <img src="img/gallery1.png" alt="">
             <div class="article_content">
                 <h1>How We cook everyday?</h1>
@@ -91,7 +91,7 @@
         </div>
 
         <div class="article_main">
-            <p class="article_number">04.</p>
+            <p class="article_number">4.</p>
             <img src="img/gallery1.png" alt="">
             <div class="article_content">
                 <h1>How We cook everyday?</h1>
@@ -128,28 +128,40 @@
 
     <!-- ................................................................filler_content.............................. -->
 
-<div class="filler_main">
-    <div class="filler1">
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas accusantium quis ullam adipisci sapiente aperiam perferendis fuga minus rem  </p>
-        <div class="item_content_info" style="margin-top: 80px;">
-                    <p>by Chef John Doe</p>
-                    <p>December 20,2020</p>
-        </div>
-    </div>
-    <div class="filler2">
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas accusantium quis ullam adipisci sapiente aperiam perferendis fuga minus rem Lorem ipsum dolor sit amet consectetur  Cum quas accusantium quis ullam adipisci sapiente aperiam perferendis fuga minus rem Lorem ipsum dolor sit amet consectetur</p>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas accusantium quis ullam adipisci sapiente  </p>
-    </div>
-</div>
+
 
 <video width="100%" height="auto" loop autoplay muted >
   <source src="img/blog.mp4" type="video/mp4">
 </video>
 
-<div class="subscribe">
-    <p>Subscribe to know our events and monthly promotions.</p>
-    <input type="email" placeholder="E-mail address"><span><input type="submit"></span>
+<div class="filler_main">
+      <div class="filler1">
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
+          accusantium quis ullam adipisci sapiente aperiam perferendis fuga
+          minus rem
+        </p>
+        <div class="item_content_info" style="margin-top: 80px">
+          <p>by Chef John Doe</p>
+          <p>December 20,2020</p>
+        </div>
+      </div>
+      <div class="filler2">
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
+          accusantium quis ullam adipisci sapiente aperiam perferendis fuga
+          minus rem Lorem ipsum dolor sit amet consectetur Cum quas accusantium
+          quis ullam adipisci sapiente aperiam perferendis fuga minus rem Lorem
+          ipsum dolor sit amet consectetur
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
+          accusantium quis ullam adipisci sapiente
+        </p>
+      </div>
 </div>
+
+
 
 <?php include("footer.php") ?>
 

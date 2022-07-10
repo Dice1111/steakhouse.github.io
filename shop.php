@@ -86,8 +86,7 @@
         </div>
     </div>
     <div class="more">
-        <button>See More</button>
+        <button>+</button>
     </div>
-    <?php include("footer.php") ?>
 </body>
 </html>

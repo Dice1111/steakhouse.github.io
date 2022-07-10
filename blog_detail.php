@@ -55,14 +55,6 @@
     </div>
 </div>
 
-<video width="100%" height="auto" loop autoplay muted >
-  <source src="img/blog.mp4" type="video/mp4">
-</video>
-
-<div class="subscribe">
-    <p>Subscribe to know our events and monthly promotions.</p>
-    <input type="email" placeholder="E-mail address"><span><input type="submit"></span>
-</div>
 
 <?php include("footer.php") ?>
 

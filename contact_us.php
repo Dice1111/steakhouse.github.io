@@ -41,12 +41,14 @@
         </div>
     </div>
     <div class="quote">
-        <h1>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi exercitation, photo booth.</h1>
+        <h1 class="quote_quote">
+            <span class="big_quote1">"</span>
+            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi exercitation, photo booth.  
+        </h1>
         <div class="border_center1">
-            <h2>Hippocrates</h2>
+            <h2>- Hippocrates</h2><br>
+            <span class="big_quote2">"</span>
         </div>
-        <div class="big_quote1"><h1>"</h1></div>
-        <div class="big_quote2"><h1>"</h1></div>     
     </div>
     <?php include("footer.php") ?>  
 </body>

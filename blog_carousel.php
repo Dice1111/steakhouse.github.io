@@ -113,7 +113,7 @@
 <script>
 $('.owl-carousel').owlCarousel({
     loop:true,
-    margin:0,
+    margin:10,
     responsiveClass:true,
     dots:true,
     loop:true,

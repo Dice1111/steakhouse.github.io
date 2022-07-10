@@ -13,13 +13,12 @@
     <div class="detail_row1">
         
         <div class="item_img">
-            <div class="filler_design"></div>
-            <img src="img/shop_item1.png" alt="">
+            <img src="img/chef_recommend.png" alt="">
         </div>
         <div class="item_info">
-            <h1>PRODUCT NAME</h1>
+            <h1>Medium Rare Steak</h1>
             <h2>by chef David</h2>
-            <h1>100$</h1>
+            <h3>$ 150.00</h3>
             <p>Decipherment muse about the carbon in our apple pies from which we spring billions upon billions prime number. Concept of the number one cosmic fugue star stuff harvesting star light concept of the number one vastness is bearable only through love cosmic fugue.</p>
             <div class="addTo_cart">
                 <h2>Add to Cart</h2>
@@ -42,7 +41,7 @@
                 </li>
                 <li>
                     <p>Ingredients</p>
-                    <p>chicken,water,salt,sugar,sause,tomato,cheese</p>
+                    <p>chicken,water,salt,sugar,sause,tomato</p>
                 </li>
                 <li>
                     <p>Detail</p>
@@ -60,11 +59,11 @@
             <ul class="review">
                 <li>
                     <img src="img/cool-cat.png" alt="">
-                    <p>Decipherment muse about the carbon in our apple pies from which we spring billions upon billions prime number. Concept of the number one cosmic fugue star stuff harvesting star light concept of the number one vastness is bearable only through love cosmic fugue.</p>
+                    <p>Decipherment muse about the carbon in our apple pies from which we spring billions upon billions prime number. Concept of the number one cosmic fugue.</p>
                 </li>
                 <li>
                     <img src="img/cool-cat.png" alt="">
-                    <p>Decipherment muse about the carbon in our apple pies from which we spring billions upon billions prime number. Concept of the number one cosmic fugue star stuff harvesting star light concept of the number one vastness is bearable only through love cosmic fugue.</p>
+                    <p>Decipherment muse about the carbon in our apple pies from which we spring billions upon billions prime number.</p>
                 </li>
                 <li>
                     <img src="img/cool-cat.png" alt="">
@@ -77,7 +76,7 @@
                 <form class="review_form" action="">
                     <input type="text" placeholder="Name...">
                     <input type="text" placeholder="Email...">
-                    <textarea name="" id="" cols="100%" rows="10"placeholder="Comment..."></textarea>
+                    <textarea name="" id="" cols="100%" rows="5"placeholder="Comment..."></textarea>
                     <input id="summit" type="submit" value="Submit">
                 </form>
             </div>
@@ -90,6 +89,6 @@
         <?php include("mayLike_carousel.php") ?>
     </div>
 
-    <?php include("footer.php") ?>
+
 </body>
 </html>

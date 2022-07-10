@@ -9,58 +9,51 @@
 h1,h2,p,li{
     color: white;
 }
-.filler_design{
-    position: absolute;
-    z-index: -1;
-    top: -25px;
-    left: -3.5%;
-    width: 300px;
-    height: 490px;
-    background-color: #FF2B55;
-    -moz-box-shadow:    inset 0 0 10px #000000;
-    -webkit-box-shadow: inset 0 0 10px #000000;
-    box-shadow:         inset 0 0 10px #000000;
-    
-}
+
 .detail_row1{
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     margin-top: 230px;
     width: 100%;
     padding: 0px 5%;
-    /* background-color: red; */
+    /* background-color: blue; */
 }
 .item_img{
    
-    position: relative;
-    width: 750px;
-    height: 850px;
+    width: 600px;
+    /* background-color: red; */
 }
 .item_img img{
-    z-index: 1;
-    width: 750px;
-    height: 850px;
-    object-fit: cover;
+    width: 100%;
+    height: auto;
 }
 .item_info{
-    width: 750px;
+    width: 600px;
     color: white;
+    /* background-color: green; */
 }
 .item_info > h1{
     /* line-height: 100px; */
-    font-size: 80px;
+    font-size: 50px;
 }
 
 .item_info h2{
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
-    font-size: 40px;
+    font-size: 20px;
+}
+.item_info h3{
+    font-size: 50px;
+    margin: 30px 0px 50px 0px;
 }
 
 .item_info p{
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
-    font-size: 30px;
+    font-size: 25px;
+    line-height: 35px;
 }
 
 .addTo_cart{
@@ -104,15 +97,18 @@ h1,h2,p,li{
 }
 .detail_row2{
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: center;
     margin-top: 100px;
     width: 100%;
+    gap: 20px;
     padding: 0px 5%;
     /* background-color: red; */
 }
 
 .item_detail{
-    width: 750px;
+    width: 600px;
+    margin-bottom: 100px;
     /* background-color: green; */
 }
 
@@ -154,7 +150,7 @@ h1,h2,p,li{
 
 .item_review{
     /* background-color: red; */
-    width: 750px;
+    width: 600px;
 }
 
 .item_review img{
@@ -171,7 +167,7 @@ h1,h2,p,li{
 }
 
 .item_review li{
-    margin: 20px 0;
+    margin: 50px 0;
     font-family: 'Montserrat', sans-serif;
     font-weight: 100;
     list-style: none;
@@ -240,11 +236,11 @@ h1,h2,p,li{
 
 
 .shop_card{
-    width: 500px;
+    max-width: 500px;
     margin: 20px;
 }
 .shop_card img{
-    width: 500px;
+    width: 100%;
     height: 500px;
     object-fit: cover;
 
@@ -280,5 +276,14 @@ h1,h2,p,li{
 
 
 
+/* ...........................................responsive....................................... */
 
-
+@media only screen and (max-width: 1100px) {
+    .shop_card{
+        max-width: 400px;
+    }
+    .shop_card img{
+        height: 400px;
+    
+    }
+  }

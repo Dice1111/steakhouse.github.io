@@ -18,7 +18,7 @@
             <div class="row1">
                 <h2>Welcome to Our</h2>
                 <h1>RESERVSTION</h1>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi felis, auctor vitae vestibulum vel, consequat eu dolor. Nam pellentesque euismod laoreet Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi felis, auctor vitae vestibulum vel, consequat eu dolor. Nam pellentesque euismod laoreet... </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi felis, auctor vitae vestibulum vel, consequat eu dolor. Nam pellentesque euismod laoreet Lorem ipsum dolor sit amet</p>
             </div>
             <div class="row2">
                 <div class="card">
@@ -52,10 +52,10 @@
                 <div>
                     <label for="fname">Select a Branch:</label><br>
                     <select name="branch" id="branch" form="branch_form">
-                        <option value="volvo">ALL CATEGORIES</option>
-                        <option value="saab">Saab</option>
-                        <option value="opel">Opel</option>
-                        <option value="audi">Audi</option>
+                        <option value="Tokyo">Tokyo</option>
+                        <option value="New_York">New York</option>
+                        <option value="London">London</option>
+                        <option value="Paris">Paris</option>
                     </select>
                 </div>
                 <div>
@@ -78,6 +78,34 @@
             </form>
         </div>        
     </div>
+    
+    <div class="filler_main">
+      <div class="filler2">
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
+          accusantium quis ullam adipisci sapiente aperiam perferendis fuga
+          minus rem Lorem ipsum dolor sit amet consectetur Cum quas accusantium
+          quis ullam adipisci sapiente aperiam perferendis fuga minus rem Lorem
+          ipsum dolor sit amet consectetur
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
+          accusantium quis ullam adipisci sapiente
+        </p>
+      </div>
+      <div class="filler1">
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
+          accusantium quis ullam adipisci sapiente aperiam perferendis fuga
+          minus rem
+        </p>
+        <div class="item_content_info" style="margin-top: 80px">
+          <p>by Chef John Doe</p>
+          <p>December 20,2020</p>
+        </div>
+      </div>      
+    </div>
+
     <?php include("footer.php") ?>
 </body>
 </html>
