@@ -16,49 +16,70 @@
     <div class="cat_landing chicken">
         <h1>CHICKEN</h1>
     </div>
-    <div class="menu_container chicken_menu">
+    <div class="menu_container column chicken_menu">
         <img src="img/cat1.png" alt="">
-        <div class="menu_row1">
+        <div class="column1">
             <div class="menu">
                 <h1>Grill</h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
-                        <p>Meat,Salt,Water,Egg</p>
-                    </li>
-                    <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>                         
         </div>
-        <div class="menu_row2">
+        <div class="column2">
             <div class="menu">
                 <h1>Grill</h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
-                        <p>Meat,Salt,Water,Egg</p>
-                    </li>
-                    <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                 </ul>
@@ -67,32 +88,33 @@
                 <h1>Grill</h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
-                        <p>Meat,Salt,Water,Egg</p>
-                    </li>
-                    <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg .........................................................<span>10$</span></h1>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
                         <p>meat,salt,water,egg</p>
                     </li>
                 </ul>
-            </div>
-        </div>
+            </div>                         
+        </div>    
+      
     </div>
     <!-- ........................................BEEF......................................... -->
     <div class="cat_landing beef">
         <h1>BEEF</h1>
     </div>
-    <div class="menu_container beef_menu">
+    <div class="menu_container column beef_menu">
         <img src="img/beef_steak.png" alt="">
-        <div class="menu_row1">
+        <div class="column1">
             <div class="menu">
                 <h1>Grill</h1>
                 <ul>
@@ -114,8 +136,29 @@
                     </li>
                 </ul>
             </div>
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>                         
         </div>
-        <div class="menu_row2">
+        <div class="column2">
             <div class="menu">
                 <h1>Grill</h1>
                 <ul>
@@ -137,15 +180,37 @@
                     </li>
                 </ul>
             </div>
-        </div>
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>                         
+        </div>    
+      
     </div>
     <!-- ........................................SAUSAGE......................................... -->
     <div class="cat_landing sausage">
         <h1>SAUSAGE</h1>
     </div>
-    <div class="menu_container sausage_menu">
+    <div class="menu_container column sausage_menu">
         <img src="img/sausage.png" alt="">
-        <div class="menu_row1">
+        <div class="column1">
             <div class="menu">
                 <h1>Grill</h1>
                 <ul>
@@ -167,8 +232,29 @@
                     </li>
                 </ul>
             </div>
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>                         
         </div>
-        <div class="menu_row2">
+        <div class="column2">
             <div class="menu">
                 <h1>Grill</h1>
                 <ul>
@@ -190,15 +276,37 @@
                     </li>
                 </ul>
             </div>
-        </div>
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>                         
+        </div>    
+      
     </div>
     <!-- ........................................BARBECUE......................................... -->
     <div class="cat_landing barbecue">
         <h1>BARBECUE</h1>
     </div>
-    <div class="menu_container barbecue_menu">
+    <div class="menu_container column barbecue_menu">
         <img src="img/barbecue.png" alt="">
-        <div class="menu_row1">
+        <div class="column1">
             <div class="menu">
                 <h1>Grill</h1>
                 <ul>
@@ -220,7 +328,73 @@
                     </li>
                 </ul>
             </div>
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>                         
         </div>
+        <div class="column2">
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu">
+                <h1>Grill</h1>
+                <ul>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                    <li>
+                        <h1>Fried Egg<span>10$</span></h1>
+                        <p>meat,salt,water,egg</p>
+                    </li>
+                </ul>
+            </div>                         
+        </div>    
+      
     </div>
     <!-- ........................................SEAFOOD......................................... -->
     <div class="cat_landing seafood">
@@ -413,6 +587,5 @@
         </div>    
       
     </div>
-    <?php include("footer.php") ?>
 </body>
 </html>

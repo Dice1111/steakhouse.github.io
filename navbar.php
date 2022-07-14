@@ -20,4 +20,5 @@
         <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
         <li><a href=""><i class="fab fa-youtube"></i></a></li>
     </ul>
+    <i class='bx bx-menu' id="menu_icon"></i>
 </header>

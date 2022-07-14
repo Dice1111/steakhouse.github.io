@@ -26,7 +26,6 @@
             We're masters in the dark arts of molecular mixology and demons in
             the kitchen...
           </p>
-          <!-- <button>View More</button> -->
         </div>
       </div>
     </div>
@@ -81,11 +80,7 @@
         <p>04.</p>
       </div>
       <div class="cat cat5">
-        <img
-          style="width: 791px; height: 739px"
-          src="img/seafood.png"
-          alt="Seafood Plate"
-        />
+        <img src="img/seafood.png" alt="Seafood Plate"/>
         <h1>SEAFOOD</h1>
         <p>05.</p>
       </div>
@@ -173,17 +168,17 @@
     </div>
 
     <!-- .............................................................blog................................................ -->
-    <div class="blog_main">
+    <!-- <div class="blog_main">
       <div class="blog_heading">
         <h2>Our blog</h2>
         <h1>Recent Event</h1>
       </div>
       <?php include("blog_carousel.php") ?>
-    </div>
+    </div> -->
 
     <!-- ................................................................filler_content.............................. -->
 
-    <div class="filler_main">
+    <!-- <div class="filler_main">
       <div class="filler1">
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
@@ -208,17 +203,17 @@
           accusantium quis ullam adipisci sapiente
         </p>
       </div>
-    </div>
+    </div> -->
 
 
     <!-- ..............................................video.................................... -->
-
+<!-- 
     <video width="100%" height="auto" loop autoplay muted>
       <source src="img/Roast.mp4" type="video/mp4" />
-    </video>
+    </video> -->
 
     <!-- ........................................filler................................ -->
-    <div class="filler_main">
+    <!-- <div class="filler_main">
       <div class="filler2">
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum quas
@@ -243,8 +238,7 @@
           <p>December 20,2020</p>
         </div>
       </div>      
-    </div>
+    </div> -->
 
-    <?php include("footer.php") ?>
   </body>
 </html>

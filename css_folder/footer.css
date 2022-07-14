@@ -117,3 +117,102 @@
     color: white;
     font-size: 20px;
 }   
+
+@media only screen and (max-width: 1600px) {
+
+    .footer_img{
+       width: 100%;
+       height: 800px;
+       object-fit:cover;
+       object-position: 0 80%;
+       top: 100%;
+       right: 0;
+        display: none;
+    }
+
+    .logo_footer{
+        justify-content: center;
+    }
+
+    .footer_content{
+
+        display: block;
+        text-align: center;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        padding: 10px;
+    }
+
+    .footer_main{
+        min-height: 100px;
+    }
+
+    .come_vist{
+        width:100%;
+        font-size: 35px;
+
+    }
+    .reservation_but{
+        margin: 50px 0px;
+    }
+    .open_today{
+        display: none;
+   }
+   .share_exp{
+        font-size: 35px;
+   }
+   .share_exp_but{
+        margin: 50px 0px;
+   }
+   .contact_us{
+        font-size: 30px;
+   }
+    .footer_col2{
+        margin-left: 0;
+
+   }
+   .footer_col2>h3,.footer_col2>p{
+        display: none;
+   }
+   .social{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        margin: 50px 0px;
+    }
+    .social i{
+        color: white;
+        font-size: 25px;
+
+    } 
+
+
+}
+@media only screen and (max-width: 600px) {
+    .come_vist{
+        width:100%;
+        font-size: 25px;
+
+    }
+    .reservation_but{
+        margin: 50px 0px;
+    }
+
+   .share_exp{
+        font-size: 25px;
+   }
+   .share_exp_but{
+        margin: 50px 0px;
+   }
+   .contact_us{
+        font-size: 20px;
+   }
+    .social i{
+        color: white;
+        font-size: 15px;
+
+    } 
+
+
+}

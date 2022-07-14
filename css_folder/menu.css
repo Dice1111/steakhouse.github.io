@@ -35,7 +35,7 @@
     font-size: 300px;
     font-family: Tw Cen MT;
     font-weight:200;
-    color:white;
+
 
 }
 
@@ -100,8 +100,9 @@
 
 .column{
     display: flex;
-    justify-content: space-around;
-    align-items: flex-end;
+    justify-content: center;
+    gap: 50px;
+    flex-wrap: wrap;
 }
 
 .menu_container img{
@@ -115,11 +116,13 @@
     opacity: 50%;
 }
 
-
+.column1 ,.column2{
+    width: 40%;
+}
 .menu{
     position: relative;
     margin: 20px 0px 20px 0px;
-    width:600px;
+    width:100%;
     padding-bottom: 50px;
     
     /* background-color: blanchedalmond;*/
@@ -168,36 +171,73 @@
     font-family: 'Montserrat', sans-serif;
     color: white;
 }
-
-
-.chicken_menu .menu_row2{
-    /* background-color: gray; */
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
+/* .............................................responsive...................................... */
+@media only screen and (max-width: 1500px) {
+    .cat_landing h1{
+        font-size: 200px;
+    }
+    .menu > h1{
+        font-size: 70px;   
+    }
+    .menu li h1{
+        font-size: 40px;
+     }
+     .menu li p{
+        font-size: 20px;
+     }
     
+     .menu span{
+        font-size: 20px;
+    }
+
+}
+@media only screen and (max-width: 900px) {
+    .cat_landing h1{
+        font-size: 150px;
+    }
+    .menu > h1{
+        font-size: 55px;   
+    }
+    .menu li h1{
+        font-size: 25px;
+     }
+     .menu li p{
+        font-size: 15px;
+     }
+    
+     .menu span{
+        font-size: 15px;
+    }
+    .menu_container img{
+        width: 600px;
+    }
 }
 
-.beef_menu .menu_row1{
-    display: flex;
-    justify-content: flex-end;
+@media only screen and (max-width: 650px) {
+    .cat_landing{
+        width: 100%;
+        height: 300px;
+
+    }
+    .cat_landing h1{
+        font-size: 100px;
+    }
+    .column1 ,.column2{
+        width: 100%;
+    }
+    .menu_container img{
+        width: 300px;
+        top:10%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
 }
-.beef_menu .menu_row2{
-    /* background-color: gray; */
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-end;
-    
+
+
+@media only screen and (max-width: 420px) {
+    .cat_landing h1{
+        font-size: 80px;
+    }
 }
-.sausage_menu .menu_row1{
-    display: flex;
-}
-.sausage_menu .menu_row2{
-    /* background-color: gray; */
-    display: flex;
-    justify-content: flex-end;    
-}
-.barbecue_menu .menu_row1{
-    display: flex;
-    justify-content: flex-end; 
-}
+
+
