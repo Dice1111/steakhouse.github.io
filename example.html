@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+ body{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+ }
+.gallery_main{
+    padding: 200px 20px;
+}
+.gallery_row1{
+    position:relative;
+}
+.gallery_row1 h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: Tw Cen MT;
+    font-size: 150px;
+    color:transparent;
+    -webkit-text-stroke: 2px white;
+
+}
+
+.gallery_row1 img{
+    width: 100%;
+    height: 475px;
+    object-fit: cover;
+    object-position: 0% 50%;
+    /* padding-bottom: 20px; */
+}
+
+.gallery_row2{
+    display: flex;
+    
+    width: 100%;
+    background-color: #82FF8A;
+
+}
+.gallery_col1{
+    width:50%;
+    background-color: aliceblue;
+
+}
+#col1_img1{
+    width: 100%;
+    height: 475px;
+    object-fit: cover;
+    background-color: #82FF8A;
+    /* object-position: 0% 50%; */
+    /* padding-bottom: 20px; */
+}
+#col1_img2{
+    width: 100%;
+    height: 775px;
+    object-fit: cover;
+    background-color: red;
+    /* object-position: 0% 50%; */
+    /* padding-bottom: 20px; */
+}
+
+.gallery_col2{
+    width: 50%;
+    /* padding-left: 10px; */
+}
+
+#col2_img1{
+    width: 100%;
+    height: 600px;
+    /* object-fit: cover; */
+    /* object-position: 0% 50%; */
+    /* padding-bottom: 20px; */
+}
+#col2_div1{
+    width: 100%;
+    display: flex;
+}
+#col2_img2{
+    width: 35%;
+    height: 650px;
+    /* object-fit: cover;
+    object-position: 0% 50%; */
+}
+#col2_div2{
+    width:65%;
+    padding-left: 10px;
+}
+#col2_img3{
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    object-position: 0% 50%;
+    padding-bottom: 20px;
+}
+#col2_img4{
+    width: 100%;
+    height: 225px;
+    object-fit: cover;
+    object-position: 0% 60%;
+    padding-bottom: 20px;
+    
+}
+
+   
+</style>
+<body>
+    <div class="gallery_main">
+        <div class="gallery_row1">
+          <img src="img/gallery1.png" alt="" />
+          <h1>Gallery</h1>
+        </div>
+  
+        <div class="gallery_row2">
+          <div class="gallery_col1">
+            <img id="col1_img1" src="img/gallery2.jpg" alt="" />
+            <img id="col1_img2" src="img/gallery3.jpg" alt="" />
+          </div>
+  
+          <!-- <div class="gallery_col2">
+            <img id="col2_img1" src="img/gallery42.jpg" alt="" />
+            <div id="col2_div1">
+              <img id="col2_img2" src="img/gallery5.jpg" alt="" />
+              <div id="col2_div2">
+                <img id="col2_img3" src="img/gallery6.jpg" alt="" />
+                <img id="col2_img4" src="img/gallery7.jpg" alt="" />
+              </div>
+            </div>
+          </div> -->
+        </div>
+      </div>
+</body>
+</html>

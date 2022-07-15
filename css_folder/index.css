@@ -20,8 +20,21 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    /* background-color: wheat; */
-    overflow: hidden;
+    
+}
+.landing::before{
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 10vw;
+    top: -10vh;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-position: 50% 80%;
+    background-size: cover;
+    background-image: url("../img/landing.jpg");
 }
 
 .landing img{
@@ -32,6 +45,7 @@
     width: 1460px;
     height: 820px;
     background-attachment: fixed;
+    background-position: 50% 100%;
 }
 .landing .intro{
     z-index: 2;
@@ -405,7 +419,7 @@
     height: 475px;
     object-fit: cover;
     object-position: 0% 50%;
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
 }
 
 .gallery_row2{
@@ -415,26 +429,29 @@
 }
 .gallery_col1{
     width:50%;
-    padding-right: 10px;
+    background-color: aliceblue;
+
 }
 #col1_img1{
     width: 100%;
     height: 475px;
     object-fit: cover;
-    object-position: 0% 50%;
-    padding-bottom: 20px;
+    background-color: #82FF8A;
+    /* object-position: 0% 50%; */
+    /* padding-bottom: 20px; */
 }
 #col1_img2{
     width: 100%;
     height: 775px;
     object-fit: cover;
-    object-position: 0% 50%;
-    padding-bottom: 20px;
+    background-color: red;
+    /* object-position: 0% 50%; */
+    /* padding-bottom: 20px; */
 }
 
 .gallery_col2{
     width: 50%;
-    padding-left: 10px;
+    /* padding-left: 10px; */
 }
 
 #col2_img1{
@@ -442,7 +459,7 @@
     height: 600px;
     object-fit: cover;
     object-position: 0% 50%;
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
 }
 #col2_div1{
     width: 100%;

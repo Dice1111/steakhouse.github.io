@@ -15,7 +15,7 @@
     <?php include("navbar.php") ?>
     <!-- ....................................Landing......................................... -->
     <div class="landing">
-      <img src="img/landing.jpg" alt="" />
+      <!-- <img src="img/landing.jpg" alt="" /> -->
       <div class="intro">
         <div>
           <h1 style="font-size: 60px">Introducing</h1>
