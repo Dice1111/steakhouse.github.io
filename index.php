@@ -16,11 +16,11 @@
     <!-- ....................................Landing......................................... -->
   
     <div class="landing">
-      <img src="img/landing.jpg" alt="" />
+      <!-- <img src="img/landing.jpg" alt="" /> -->
       <div class="intro">
-        <div>
-          <h1 style="font-size: 4vw">Introducing</h1>
-          <h1 style="font-size: 7vw">Deliciousness.</h1>
+        <div class="intro_title">
+          <h1>Introducing</h1>
+          <h1>Deliciousness.</h1>
         </div>
         <div class="secondary_intro">
           <p>
@@ -88,7 +88,9 @@
 
     <!-- ................................................best_of_the_best........................ -->
     <div class="best_of_the_best">
-      <h1 class="best_heading">Best of the best</h1>
+      <div class="best_heading_container">
+        <h1 class="best_heading">Best of the best</h1>
+      </div>
 
       <div class="chef_recommend">
         <div class="chef_recommend_img">
@@ -141,29 +143,48 @@
     </div>
 
     <!-- ............................................................gallery.......................................... -->
-
+    <!-- ............................................................gallery.......................................... -->
     <div class="gallery_main">
       <div class="gallery_row1">
-        <img src="img/gallery1.png" alt="" />
+        <div class="gallery_headerImg_container">
+          <img src="img/gallery1.png" alt="" />
+        </div>
+       
         <h1>Gallery</h1>
       </div>
 
+
       <div class="gallery_row2">
         <div class="gallery_col1">
-          <img id="col1_img1" src="img/gallery2.jpg" alt="" />
-          <img id="col1_img2" src="img/gallery2.jpg" alt="" />
+          <div class="col1_img1_container">
+            <img id="col1_img1" src="img/gallery2.jpg" alt="" />
+          </div>
+          <div class="col1_img2_container">
+            <img id="col1_img2" src="img/gallery2.jpg" alt="" />
+          </div>
         </div>
 
+
         <div class="gallery_col2">
-          <img id="col2_img1" src="img/gallery42.jpg" alt="" />
+          <div class="col2_img1_container">
+            <img id="col2_img1" src="img/gallery42.jpg" alt="" />
+          </div>
           <div id="col2_div1">
-            <img id="col2_img2" src="img/gallery5.jpg" alt="" />
+            <div class="col2_img2_container">
+              <img id="col2_img2" src="img/gallery5.jpg" alt="" />
+            </div>
             <div id="col2_div2">
-              <img id="col2_img3" src="img/gallery6.jpg" alt="" />
-              <img id="col2_img4" src="img/gallery7.jpg" alt="" />
+              <div class="col2_img3_container">
+                <img id="col2_img3" src="img/gallery6.jpg" alt="" />
+              </div>
+              <div class="col2_img4_container">
+                <img id="col2_img4" src="img/gallery7.jpg" alt="" />
+              </div>
+              
             </div>
           </div>
         </div>
+ 
       </div>
     </div>
 
