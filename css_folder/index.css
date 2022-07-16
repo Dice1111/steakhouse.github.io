@@ -13,6 +13,7 @@
 
 
 /* ......................................home_landing......................................... */
+
 .landing{
     padding: 0px 10%;
     display: flex;
@@ -20,21 +21,8 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    
-}
-.landing::before{
-    content: ' ';
-    display: block;
-    position: absolute;
-    left: 10vw;
-    top: -10vh;
-    width: 100%;
-    height: 100%;
-    opacity: 1;
-    background-repeat: no-repeat;
-    background-position: 50% 80%;
-    background-size: cover;
-    background-image: url("../img/landing.jpg");
+    /* background-color: wheat; */
+    overflow: hidden;
 }
 
 .landing img{
@@ -42,10 +30,9 @@
     position: absolute;
     top: -60px;
     right:-20px;
-    width: 1460px;
-    height: 820px;
-    background-attachment: fixed;
-    background-position: 50% 100%;
+    width:70vw;
+    height: auto;
+  
 }
 .landing .intro{
     z-index: 2;
@@ -75,9 +62,9 @@
 .landing .secondary_intro p{
     font-family: 'Montserrat', sans-serif;
     color: #BC3F46;
-    font-size: 20px;
+    font-size: 1vw;
     font-weight: bold;
-    width: 500px;
+    width: 30vw;
 }
 
 
@@ -85,9 +72,10 @@
 
 .about_us{
     position: relative;
-    /* background-color: gray; */
+   
     width: 100%;
-    height:950px;
+    height:1080px;
+    /* background-color: antiquewhite; */
 
 }
 
@@ -96,19 +84,23 @@
     left:60%;
     transform: translate(-50%,-50%);
     position: absolute;
-    width: 800px;
+    max-width: 800px;
+    min-width: 800px;
+    
     text-align: center;
-    height:300px;
+    /* background-color: #FF7070; */
+    
+   
    
 }
 .aboutUs_heading h1{
     font-family: 'Patua One', cursive;
-    font-size: 75px;
+    font-size: 55px;
 }
 .aboutUs_heading h2{
     font-family: 'Tangerine', cursive;
     font-weight:normal;
-    font-size: 40px;
+    font-size: 35px;
     margin-bottom: 25px;
     
 }
@@ -117,7 +109,7 @@
     color: #BC3F46;
     font-size: 20px;
     font-weight: bold;
-    width: 520px;
+    max-width: 600px;
     margin: auto;
     
 }
@@ -134,41 +126,29 @@
     
 
 }
+.about_us #img1{
+    width: 32vw;
+    height: auto;
+    
+}
 .about_us #img2{
     position: absolute;
     top: 0;
     right:0;
-    width: 270px;
-    height: 400px;
+    width: 14vw;
+    height:auto;
     
 }
-
-
-.fillerImg{
+.about_us #img3{
     position: absolute;
-    top:500px;
-    right:0;
-    width:470px;
-    height:600px;
-    /* background: red; */
-    overflow: hidden;
-}
-
-.fillerImg #img3{
-    position: absolute;
-    width: 650px;
+   bottom: 0;
+   right: 0;
+    width: 22vw;
     height: auto;
+   
 }
 
-.about_us #img4{
-    position: absolute;
-    bottom: 70px;
-    right:50%;
-    width: 110px;
-    height: 300px;
-    transform: rotate(21deg);
-    
-}
+
 
 /* ............................................categories...................................... */
 
@@ -394,7 +374,9 @@
 
 
 /* ........................................gallery................................... */
-
+.gallery_main img{
+    display: block;
+}
 
 .gallery_main{
     padding: 200px 20px;
@@ -419,7 +401,7 @@
     height: 475px;
     object-fit: cover;
     object-position: 0% 50%;
-    /* padding-bottom: 20px; */
+    padding-bottom: 20px;
 }
 
 .gallery_row2{
@@ -429,29 +411,26 @@
 }
 .gallery_col1{
     width:50%;
-    background-color: aliceblue;
-
+    padding-right: 10px;
 }
 #col1_img1{
     width: 100%;
     height: 475px;
     object-fit: cover;
-    background-color: #82FF8A;
-    /* object-position: 0% 50%; */
-    /* padding-bottom: 20px; */
+    object-position: 0% 50%;
+    padding-bottom: 20px;
 }
 #col1_img2{
     width: 100%;
     height: 775px;
     object-fit: cover;
-    background-color: red;
-    /* object-position: 0% 50%; */
-    /* padding-bottom: 20px; */
+    object-position: 0% 50%;
+    padding-bottom: 20px;
 }
 
 .gallery_col2{
     width: 50%;
-    /* padding-left: 10px; */
+    padding-left: 10px;
 }
 
 #col2_img1{
@@ -459,7 +438,7 @@
     height: 600px;
     object-fit: cover;
     object-position: 0% 50%;
-    /* padding-bottom: 20px; */
+    padding-bottom: 20px;
 }
 #col2_div1{
     width: 100%;
@@ -486,13 +465,12 @@
 }
 #col2_img4{
     width: 100%;
-    height: 225px;
+    height: 230px;
     object-fit: cover;
     object-position: 0% 60%;
     padding-bottom: 20px;
     
 }
-
 
 /* .................................................blog.............................................. */
 
@@ -501,6 +479,7 @@
 
 .blog_main{
     text-align: center;
+    margin: 160px 0px;
 }
 
 .blog_heading h2{
@@ -570,22 +549,30 @@
 
 
 
+/* * ................................................filler.............................. */ 
 
-/* ................................................filler.............................. */
+
+.filler_container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding:0 10%;
+    
+}
+
+
 .filler_main{
     display: flex;
-    justify-content:space-between;   
-    width: 100%;
-    padding: 0 10%;
-    padding-top: 200px;
-    padding-bottom: 200px;
+    justify-content:center;
+    width: 1600px;
+    gap: 80px;
+    
 }
 
 .filler1{
-    width: 45%;
-    padding-bottom: 15px;
-    border-bottom: 1px solid white;
-
+    width: 50%;
+    
+    
 }
 .filler1>p{
     font-family: Tw Cen MT;
@@ -600,27 +587,31 @@
 
 }
 .filler2{
-    width: 45%;
-}
+    width: 50%;
+    
 
+}
 .filler2 p:nth-child(1){
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
-    margin-bottom: 80px;
+    margin-bottom: 70px;
     line-height: 30px;
-}
 
+}
 .filler2 p:nth-child(2){
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-style: italic;
     line-height: 30px;
+
 }
 
 .item_content_info{
     display: flex;
     justify-content: space-between;
-    margin-top: 130px;
+    margin-top: 80px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid white;
 }
 .item_content_info p{
     font-family: 'Montserrat', sans-serif;
@@ -639,13 +630,71 @@
     .categories .cat p{
         font-size: 45px; 
     }
+    .about_us #img1{
+        width: 37vw;
+        
+        
+    }
+    .about_us #img2{
+        
+        width: 18vw;
+    }
+    .about_us #img3{
+         width: 27vw;
+        
+    }
+    .aboutUs_heading{
+        
+        min-width: 750px;
+    }
+    .aboutUs_heading h1{
+        
+        font-size: 47px;
+    }
+    .aboutUs_heading h2{
+        
+        font-size: 27px;
+    }
 
+    /* ...........gallery............... */
+    .gallery_row2{
+       
+        flex-wrap: wrap;
+        gap:20px;
+        
+    }
+    .gallery_col1{
+        width:100%;
+        display: flex;
+    }
+    #col1_img1{
+        max-width: 50%;
+        height: 500px;
+    }
+    #col1_img2{
+        max-width: 50%;
+        height: 500px;
+    }
+    .gallery_col2{
+        width: 100%;
+        
+    }
 
 }
 
 
 @media only screen and (max-width: 1200px) {
-    /* .........................categories........................ */
+    
+    .aboutUs_heading h1{
+        
+        font-size: 38px;
+    }
+    .aboutUs_heading h2{
+        
+        font-size: 24px;
+    }
+
+ /* .........................categories........................ */
     .categories .cat h1{
         font-size: 150px;   
     }
@@ -695,9 +744,73 @@
     .our_chef_content p{
         font-size: 15px;       
     }
+
+
+    .filler1>p{
+       
+        font-size: 27px;
+        
+        
+    }
+    .filler1>.item_content_info>p{
+        
+        font-size: 14px;
+        
+    
+    }
+    
+    .filler2 p:nth-child(1){
+        
+        font-size: 14px;
+        margin-bottom: 60px;
+        line-height: 20px;
+    
+    }
+    .filler2 p:nth-child(2){
+        font-size: 14px;
+        line-height: 20px;
+    
+    }
+    .article_number{
+        left: -50px;
+        font-size: 30px;
+        
+    }
 }
 
 @media only screen and (max-width: 1000px) {
+    .aboutUs_heading{
+        top:50%;
+        left:50%;
+        transform: translate(-50%,-50%);
+        min-width: 700px;
+    }
+
+    .about_us #img1{
+        width: 42vw;
+        
+        
+    }
+    .about_us #img2{
+        top: 5%;
+        right:0;
+        width: 20vw;
+    }
+    .about_us #img3{
+        bottom: 5%;
+        right: 0;
+         width: 30vw;
+        
+    }
+    .aboutUs_heading h1{
+        
+        font-size: 45px;
+    }
+    .aboutUs_heading h2{
+        
+        font-size: 25px;
+    }
+
     /* .........................categories........................ */
     .categories .cat h1{
         font-size: 100px;   
@@ -799,7 +912,57 @@
 
 
 @media only screen and (max-width: 768px) {
+    .aboutUs_heading{
+       
+        min-width: 500px;
+    }
+
+    .about_us #img1{
+        width: 55vw;
+        
+        
+    }
+    .about_us #img2{
+        display: none;
+    }
+    .about_us #img3{
+        bottom: 5%;
+        right: 0;
+         width: 40vw;
+        
+    }
+    .aboutUs_heading h1{
+        
+        font-size: 45px;
+    }
+    .aboutUs_heading h2{
+        
+        font-size: 30px;
+    }
+    .filler_main{
+        flex-wrap: wrap;
+    }
+    
+    .filler1{
+        width: 100%;
+    }
+    .filler2{
+        width: 100%;
+        
+    }
+    .article_number{
+        display: none;
+    }
+
+
+
+
     /* .........................categories........................ */
+    .categories .cat{
+        
+        height: 70vh;
+        
+    }
     .categories .cat_intro h1{
         font-size: 55px;
         width: 467px;
@@ -856,6 +1019,26 @@
 
 }
 @media only screen and (max-width: 600px) {
+    .aboutUs_heading{
+       
+        min-width: 400px;
+    }
+    .about_us #img1{
+        width: 60vw;
+    }
+    .about_us #img3{
+        
+         width: 50vw;
+        
+    }
+    .aboutUs_heading h1{
+        
+        font-size: 30px;
+    }
+    .aboutUs_heading h2{
+        
+        font-size: 15px;
+    }
     /* .........................categories........................ */
     .categories .cat_intro h1{
         font-size: 50px;
@@ -878,6 +1061,27 @@
 }
 
 @media only screen and (max-width: 450px) {
+        
+       
+        .aboutUs_heading{
+       
+            min-width: 300px;
+        }
+
+        .aboutUs_heading h1{
+        
+            font-size: 25px;
+        }
+        .aboutUs_heading h2{
+            
+            font-size: 15px;
+        }
+        .aboutUs_heading p{
+            
+            font-size: 15px;
+            
+            
+        }
         /* .........................categories........................ */
         .categories .cat img{
             width: 300px; 
@@ -912,4 +1116,10 @@
             font-size: 70px;
         }
         
+}
+
+@media screen and (max-device-width: 450px) { 
+    .about_us{
+        height: 800px;
+    }
 }

@@ -5,12 +5,13 @@
     position: relative;
     font-family: Tw Cen MT;
     color: white;
+    /* background-color: #C13838; */
 }
 
 
 .footer_img{
-    width: 1141px;
-    height: 843px;
+    width: auto;
+    height: 800px;
     position: absolute;
     top: 0;
     right: 0;
@@ -116,10 +117,12 @@
 .social i{
     color: white;
     font-size: 20px;
-}   
+} 
+
+/* ...........................responsive...................... */
 
 @media only screen and (max-width: 1600px) {
-
+    
     .footer_img{
        width: 100%;
        height: 800px;
@@ -135,7 +138,8 @@
     }
 
     .footer_content{
-
+    
+        /* background-color: aquamarine; */
         display: block;
         text-align: center;
         position: absolute;
@@ -151,7 +155,7 @@
     .come_vist{
         width:100%;
         font-size: 35px;
-
+        
     }
     .reservation_but{
         margin: 50px 0px;
@@ -170,13 +174,14 @@
    }
     .footer_col2{
         margin-left: 0;
-
+    
    }
    .footer_col2>h3,.footer_col2>p{
         display: none;
    }
    .social{
         width: 100%;
+        /* background-color: #C13838; */
         display: flex;
         justify-content: center;
         margin: 50px 0px;
@@ -186,23 +191,27 @@
         font-size: 25px;
 
     } 
-
+    
 
 }
 @media only screen and (max-width: 600px) {
     .come_vist{
         width:100%;
         font-size: 25px;
-
+        
     }
     .reservation_but{
         margin: 50px 0px;
+        font-size: 25px;
+        padding: 10px 40px;
     }
-
+    
    .share_exp{
         font-size: 25px;
    }
    .share_exp_but{
+        padding:8px 40px ;
+        font-size: 16px;
         margin: 50px 0px;
    }
    .contact_us{
@@ -213,6 +222,6 @@
         font-size: 15px;
 
     } 
-
+   
 
 }

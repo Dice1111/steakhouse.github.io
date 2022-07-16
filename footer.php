@@ -29,12 +29,14 @@
                 <h3>Address</h3>
                 <p>apple@gmail.com</p>
                 <h3>Socail</h3>
-                <ul class="social">
+                <div class="social">
+                    <ul>
                     <li><a href=""><i class="fab fa-instagram"></i></a></li>
                     <li><a href=""><i class="fab fa-twitter"></i></a></li>
                     <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
                     <li><a href=""><i class="fab fa-youtube"></i></a></li>
-                </ul>
+                </ul></div>
+                
                 
             </div>
 
