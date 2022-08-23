@@ -17,91 +17,92 @@
         <h1>CHICKEN</h1>
     </div>
     <div class="menu_container column chicken_menu">
-        <img src="img/cat1.png" alt="">
+        <img  src="img/cat1.png" alt="">
         <div class="column1">
-            <div class="menu">
-                <h1>Grill</h1>
+            <div  class="menu" >
+            <!-- data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" -->
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
         </div>
         <div class="column2">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
@@ -116,88 +117,88 @@
         <img src="img/beef_steak.png" alt="">
         <div class="column1">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
         </div>
         <div class="column2">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
@@ -212,88 +213,88 @@
         <img src="img/sausage.png" alt="">
         <div class="column1">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1>Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
         </div>
         <div class="column2">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
@@ -308,88 +309,88 @@
         <img src="img/barbecue.png" alt="">
         <div class="column1">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
         </div>
         <div class="column2">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
@@ -404,88 +405,88 @@
         <img src="img/seafood.png" alt="">
         <div class="column1">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
         </div>
         <div class="column2">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
@@ -499,88 +500,88 @@
         <img src="img/cat1.png" alt="">
         <div class="column1">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
         </div>
         <div class="column2">
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>
             <div class="menu">
-                <h1>Grill</h1>
+                <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Grill <span class="underline"></span></h1>
                 <ul>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                     <li>
-                        <h1>Fried Egg<span>10$</span></h1>
-                        <p>meat,salt,water,egg</p>
+                        <h1 data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">Fried Egg<span>10$</span></h1>
+                        <p data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">meat,salt,water,egg</p>
                     </li>
                 </ul>
             </div>                         
@@ -588,4 +589,7 @@
       
     </div>
 </body>
+<script>
+  AOS.init();
+</script>
 </html>
