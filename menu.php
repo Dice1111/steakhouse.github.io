@@ -13,8 +13,8 @@
 <body>
     <?php include("navbar.php") ?>
     <!-- ........................................CHICKEN......................................... -->
-    <div class="cat_landing chicken">
-        <h1>CHICKEN</h1>
+    <div  class="cat_landing chicken">
+        <h1 class= "cat_heading">CHICKEN</h1>
     </div>
     <div class="menu_container column chicken_menu">
         <img  src="img/cat1.png" alt="">
@@ -110,7 +110,7 @@
       
     </div>
     <!-- ........................................BEEF......................................... -->
-    <div class="cat_landing beef">
+    <div class="cat_landing beef testing">
         <h1>BEEF</h1>
     </div>
     <div class="menu_container column beef_menu">
@@ -589,7 +589,12 @@
       
     </div>
 </body>
+
 <script>
   AOS.init();
 </script>
+
+<script src="javascript/scroll.js">
+</script>
+
 </html>
