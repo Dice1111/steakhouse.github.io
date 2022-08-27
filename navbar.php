@@ -22,3 +22,7 @@
     </ul>
     <i class='bx bx-menu' id="menu_icon"></i>
 </header>
+
+<script>
+  AOS.init();
+</script>

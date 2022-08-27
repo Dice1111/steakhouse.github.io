@@ -11,7 +11,7 @@
 <body>
     <?php include("navbar.php") ?>
     <div class="shop_landing">
-        <h1 class="shop_heading">SHOP</h1>
+        <div data-aos="fade" data-aos-duration="2000" data-aos-once="true"><h1 class="shop_heading">SHOP</h1></div>
     </div>
 
     <div class="shop_nav">
@@ -48,6 +48,7 @@
     </div>
 
     <div class="shop">
+        <a href="http://"></a>
         <div class="shop_card">
             <img src="img/shop_item1.png" alt="">
             <h1>Fried Egg<span>10$</span></h1>
@@ -84,10 +85,33 @@
             <hr>
             <p>catagories/chef</p>
         </div>
+        <div class="shop_card">
+            <img src="img/shop_item4.png" alt="">
+            <h1>Fried Egg<span>10$</span></h1>
+            <hr>
+            <p>catagories/chef</p>
+        </div>
+        <div class="shop_card">
+            <img src="img/shop_item5.png" alt="">
+            <h1>Fried Egg<span>10$</span></h1>
+            <hr>
+            <p>catagories/chef</p>
+        </div>
+        <div class="shop_card">
+            <img src="img/shop_item6.png" alt="">
+            <h1>Fried Egg<span>10$</span></h1>
+            <hr>
+            <p>catagories/chef</p>
+        </div>
+        
     </div>
+    
     <div class="more">
-        <button>+</button>
+        <?php include("loading.php") ?>
+        <button onclick="more_item()">+</button>
     </div>
     <?php include("footer.php") ?>
 </body>
+<script src="javascript/more_item.js">  
+</script>
 </html>
