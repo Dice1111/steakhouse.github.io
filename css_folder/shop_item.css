@@ -93,9 +93,13 @@ h1,h2,p,li{
     align-items: center;
 }
 
-.amount h2{
+.amount_num{
+    background-color: transparent;
+    border: none;
+    width: 60px;
+    color: white;
     margin: 0px 10px;
-    font-size: 40px;
+    font-size: 30px;
 }
 .detail_row2{
     display: flex;
@@ -119,22 +123,48 @@ h1,h2,p,li{
     
     width: 100%;
     border-bottom: 1px solid #FF2B55;
-    border-top: 1px solid #FF2B55;
 }
 /* .item_detail ul{
     padding-top: 30px;
 } */
 
 .item_detail button,.item_review button{
+    position: relative;
     font-family: 'Tw Cen MT';
     width: 100%;
     text-align: left;
     border: none;
     background-color: transparent;
     color: white;
+    /* background-color: blanchedalmond; */
     font-size:40px;
     line-height: 100px;
+    cursor: pointer;
+    border-bottom: 1px solid #FF2B55;
 }
+
+.item_detail button i,.item_review button i{
+    position: absolute;
+    right: 0;
+    top:50%;
+    transform: translateY(-50%);
+  
+
+}
+/* .bx-chevron-down{
+    display: block;
+}
+
+.bx-chevron-up{
+    display: none;
+} */
+.display_toggle{
+    display: none;
+}
+
+
+
+
 
 .info_list li{
     margin: 50px 0px;
