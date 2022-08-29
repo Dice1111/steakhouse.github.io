@@ -75,8 +75,8 @@
         <p>03.</p>
       </div>
       <div class="cat cat4">
-        <img src="img/barbecue.png" alt="Barbecue Plate" />
-        <h1>BARBECUE</h1>
+        <img src="img/noodle.png" alt="Noodle Plate" />
+        <h1>NOODLE</h1>
         <p>04.</p>
       </div>
       <div class="cat cat5">
