@@ -222,7 +222,7 @@
 
 /* .............................................responsive...................................... */
 @media only screen and (max-width: 1500px) {
-    .cat_landing h1{
+    .cat_landing > div > h1{
         font-size: 200px;
     }
     .menu > h1{
@@ -241,7 +241,7 @@
 
 }
 @media only screen and (max-width: 900px) {
-    .cat_landing h1{
+    .cat_landing > div > h1{
         font-size: 150px;
     }
     .menu > h1{
@@ -268,7 +268,7 @@
         height: 300px;
 
     }
-    .cat_landing h1{
+    .cat_landing > div > h1{
         font-size: 100px;
     }
     .column1 ,.column2{
@@ -284,7 +284,7 @@
 
 
 @media only screen and (max-width: 420px) {
-    .cat_landing h1{
+    .cat_landing > div > h1{
         font-size: 80px;
     }
 }

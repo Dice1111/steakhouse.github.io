@@ -1,12 +1,13 @@
 <header>
-    <nav>
+    <div class="top_menu">
+        <nav>
         <img class="logo_img" src="img/logo.png" alt="">
         <div class ="logo">
             <a href="index.php"><p>STEAK</p>
             <p>House</p></a>
         </div>
         <ul class="left_nav">
-            <li><a href="menu.php">Cusine</a></li>
+            <li><a href="menu.php">Menu</a></li>
             <li><a href="reservation.php">Reservation</a></li>
             <li><a href="contact_us.php">Contact</a></li>
             <li><a href="blog.php">Blog</a></li>
@@ -20,9 +21,26 @@
         <li><a href=""><i class="fab fa-facebook-f"></i></a></li>
         <li><a href=""><i class="fab fa-youtube"></i></a></li>
     </ul>
-    <i class='bx bx-menu' id="menu_icon"></i>
-</header>
+    <button id="menu_icon"><i class='bx bx-menu'  onclick="sidebar_active()" ></i></button>
+   <button id="menu_close_icon"><i class='bx bx-x' onclick="sidebar_inactive()"></i></button>
+    
+    </div>
 
-<script>
-  AOS.init();
+    
+    <div class="responsive_menu">
+        <div class="responsive_menu_container" >
+        <ul class="responsive_menu_element">
+            <li><a href="menu.php">MENU<i class='bx bx-food-menu side_nav_icon' ></i></a></li>
+            <li><a href="reservation.php">RESERVATION<i class='bx bx-calendar side_nav_icon' ></i></a></li>
+            <li><a href="contact_us.php">CONTACT<i class='bx bxs-phone-call side_nav_icon' ></i></a></li>
+            <li><a href="blog.php">BLOG<i class='bx bxl-blogger side_nav_icon' ></i></a></li>
+            <li><a href="about.php">ABOUT<i class='bx bxs-group side_nav_icon' ></i></a></li>
+            <li><a href="shop.php">SHOP<i class='bx bx-cart side_nav_icon' ></i></a></li>
+        </ul>
+        </div>
+    </div>
+    
+</header>
+<script src="javascript/navber.js">
+    
 </script>
