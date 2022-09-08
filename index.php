@@ -96,20 +96,18 @@
           <img src="img/chef_recommend.png" alt="" />
         </div>
         <div data-aos="fade-left" data-aos-duration="1000" data-aos-once="true" class="chef_recommend_content">
-          <p class="chef_recommend_content_header">Chef recommend</p>
           <h2>Lorem Inpusm</h2>
           <p class="chef_recommend_content_body">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi
             felis, auctor vitae vestibulum vel, consequat eu dolor. Nam
             pellentesque euismod laoreet.
           </p>
-          <button>Read More</button>
+          <button onclick="window.location.href = 'shop_item.php';">Read More</button>
         </div>
       </div>
 
       <div class="chef_recommend">
         <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" class="chef_recommend_content">
-          <p class="chef_recommend_content_header">Most Popular</p>
           <h2>Beef Wellington</h2>
           <p class="chef_recommend_content_body">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mi
@@ -159,7 +157,7 @@
             <img id="col1_img1" src="img/gallery2.jpg" alt="" />
           </div>
           <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="true" class="col1_img2_container">
-            <img id="col1_img2" src="img/gallery2.jpg" alt="" />
+            <img id="col1_img2" src="img/gallery8.jpg" alt="" />
           </div>
         </div>
 

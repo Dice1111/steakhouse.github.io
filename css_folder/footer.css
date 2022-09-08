@@ -65,7 +65,19 @@
     padding: 15px 60px;
     margin: 30px 0px;
     color: white;
+    cursor: pointer;
+    transition: 0.5s ease;
 }
+
+.reservation_but:hover{
+    color: black;
+    border-radius: 10px;
+    background-color: #C13838;
+}
+
+
+
+
 .share_exp{
     font-size: 50px;
 }
@@ -83,7 +95,8 @@
     width: 250px;
     font-size: 80px;
     color: transparent;
-    -webkit-text-stroke: 2px white;
+    -webkit-text-stroke: 2px #82FF8A;
+
 }
 
 .footer_col2{
