@@ -69,7 +69,7 @@
 
         <div class="article_main" data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">
             <p class="article_number">2.</p>
-            <img src="img/gallery1.jpg" alt="">
+            <img src="img/gallery1.jpg" loading="lazy" alt="">
             <div class="article_content">
                 <h1>How We cook everyday</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, voluptatem quisquam ipsum sint neque expeditaore et eniet, provident deserunt.</p>
@@ -84,7 +84,7 @@
 
         <div class="article_main" data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">
             <p class="article_number">3.</p>
-            <img src="img/gallery1.jpg" alt="">
+            <img src="img/gallery1.jpg" loading="lazy" alt="">
             <div class="article_content">
                 <h1>How We cook everyday</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, voluptatem quisquam ipsum sint neque expeditaore et eniet, provident deserunt.</p>
@@ -99,7 +99,7 @@
 
         <div class="article_main" data-aos="fade-right" data-aos-duration="1000" data-aos-once="true">
             <p class="article_number">4.</p>
-            <img src="img/gallery1.jpg" alt="">
+            <img src="img/gallery1.jpg" loading="lazy" alt="">
             <div class="article_content">
                 <h1>How We cook everyday</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, voluptatem quisquam ipsum sint neque expeditaore et eniet, provident deserunt.</p>
